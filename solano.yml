@@ -1,1 +1,1 @@
-script: "echo 'Hello agent2'"
+script: "/bin/echo 'Hello agent2'"
