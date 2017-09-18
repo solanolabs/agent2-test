@@ -1,2 +1,1 @@
-script: |
-  echo "Hello agent2"
+script: "echo 'Hello agent2'"
