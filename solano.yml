@@ -1,1 +1,1 @@
-script: "/bin/sh -c 'echo agent2'"
+script: "./build.sh"
